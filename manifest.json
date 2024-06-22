@@ -1,0 +1,9 @@
+{
+	"id": "GalleryPlugin",
+	"name": "Gallery Plugin",
+	"version": "1.0.5",
+	"minAppVersion": "0.15.12",
+	"description": "Render local files (no links) in thumbnail gallery format",
+	"author": "insert4NamesString",
+	"isDesktopOnly": true
+}
