@@ -8,7 +8,7 @@ This plugin read md (galleies) that contain links to image files to display as a
     - example:
         !link_Markdown(image 1)
         !link_Markdown(image 2)
-2. Create a markdown code block:
+2. Create a markdown code block thumbGallery:
     ```thumbGallery
     [[name of Md file]]
     ```
